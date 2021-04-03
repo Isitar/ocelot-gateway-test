@@ -1,0 +1,8 @@
+{
+  "JwtSettings": {
+    "Issuer": "isitar.ch",
+    "Audience": "gateway-users",
+    "Secret": "gsd3yVMCxBcoJh7d5EfmHR6rht6BCFzKUz2unE8hyzkOODUFHu3Hc6X8qLX3MHsgReAjDKW50nTJTf7iWSDnDKZZ2EjsFCYMBkq8Ls0IUyZsgmrMtfys6dqaSrmVNvW873nDLnwltcrqY902dNcwR4ZNfFldfYUXASpTxY61Avdd3vukuSFXwdRlQk9CoEBetKKt8a7efy6opwQlpQU40NeqgTYskGNIcPQmlXPwxZCIZJwiWBrb5YMFQEAKqDrJ",
+    "TokenLifetime": "0:01:00:00"
+  }
+}
